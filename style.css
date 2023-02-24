@@ -1,0 +1,19 @@
+.transparent {
+    opacity: 0.5;
+}
+
+.transparent:hover {
+    opacity: 1.0;
+}
+
+.P1:hover {
+    color: red;
+}
+
+.P2:hover {
+    color: blue;
+}
+
+.login {
+    background-image: linear-gradient(to bottom, white, red);
+}
