@@ -15,5 +15,9 @@
 }
 
 .login {
-    background-image: linear-gradient(to bottom, white, red);
+    background-image: linear-gradient(to bottom, aqua, blue);
+}
+
+.game {
+    background-image: linear-gradient(to bottom, white, red)
 }
