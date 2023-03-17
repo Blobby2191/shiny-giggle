@@ -21,3 +21,11 @@
 .game {
     background-image: linear-gradient(to bottom, white, red)
 }
+
+.check {
+    color: yellow;
+}
+
+.check:hover {
+    color:orange
+}
